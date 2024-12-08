@@ -1,5 +1,5 @@
-import React from 'react';
-import { Beef, Leaf, Flame } from 'lucide-react';
+
+import {  Leaf, Flame } from 'lucide-react';
 
 interface MenuItem {
   name: string;

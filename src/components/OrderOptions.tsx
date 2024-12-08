@@ -1,4 +1,3 @@
-import React from 'react';
 import { UtensilsCrossed, Phone, Timer, Car } from 'lucide-react';
 
 export function OrderOptions() {
